@@ -28,7 +28,8 @@ Quality Control @ TU-BS for 3D printed objects
 
 
 ### Projects
-Object Detection
+OBJECT DETECTION FROM DIOR DATASET WITH YOLOV5 AND YOLOV8
+[Report]([https://www.mdpi.com/1424-8220/22/8/3048](https://github.com/KaramMawas/Yolo_ObjectDetection/blob/main/Report_GroupE_Deep_Learning_Course_IGP_TUBS.pdf)https://github.com/KaramMawas/Yolo_ObjectDetection/blob/main/Report_GroupE_Deep_Learning_Course_IGP_TUBS.pdf)
 - Yolo5
 - Yolo8
   
