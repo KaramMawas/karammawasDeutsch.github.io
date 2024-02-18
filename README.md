@@ -10,7 +10,7 @@
 **Quality control of additively manufactured building components @ IGP, TU-BS (_May 2020 - Present_)**
 - Developing an automated data capturing approach for TLS in the production printing lab.
 - Comparing registration approaches between direct **co-registration** and **ICP-based** methods, emphasizing their distinctions.
-- Innovating **computer vision and deep learning** methods for quality control of printing objects, with a focus on SC3DP during production.
+- Innovating **computer vision and deep learning** methods for quality control of printing objects as well as the filaments of the object, with a focus on SC3DP and Extrusion base during production.
 - Conducting comprehensive research on the current state of **quality control** for concrete 3D printed specimens and the corresponding sensor technology in use.
 
 
