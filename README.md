@@ -38,11 +38,11 @@ actively contributing to maintenance concept development and city mapping genera
 
 
 ### Sensors Experience
-- Terrestrial Laser Scanners (TLS) |    (Z+F) 5010X, 5016  |     (Leica) P20, BLK
-- Total Stations  |   Leica MS50, TS60
-- Structured Light System (SLS)  |   StereoScan neo R16.2
-- Cameras  |  Structure from Motion (Photogrammetry)  |  DPA - Hexagon
-- System Trackers  |   Valkyrie (Vicon System)
+- **Terrestrial Laser Scanners (TLS)** | (Z+F) 5010X, 5016 | (Leica) P20, BLK
+- **Total Stations** | Leica MS50, TS60
+- **Structured Light System (SLS)** | StereoScan neo R16.2
+- **Cameras** | Structure from Motion (Photogrammetry) | DPA - Hexagon
+- **System Trackers** | Valkyrie (Vicon System)
 
 
 ## Publications
