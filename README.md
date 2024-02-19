@@ -1,20 +1,20 @@
 # Data Scientist
 
-##### Technical Skills: Python, MATLAB, Tensorflow, Scikit-learn, OpenCv, Open3d, Git, Cloud Compare
 ##### Soft Skills: Critical thinking, Communication skills, Problem solving, Curiosity, Teamwork
+##### Technical Skills: Python, MATLAB, Tensorflow, Scikit-learn, OpenCv, Open3d, Git, Cloud Compare
 
-## Contacts
+## Contact Information
 Email |  karam.mawas@gmail.com
 - [Researchgate](https://www.researchgate.net/profile/Karam-Mawas)
 - [Linkedin](https://www.linkedin.com/in/karam-mawas-6103aa98/?locale=en_US)
 - [ORCID](https://orcid.org/0000-0002-8608-7578)
 
 ## Education
-- Ph.D., Geodesy | The Technical University of Braunschweig, Institute of Geodesy and Photogrammetry (_Present_)								       		
+- Ph.D., Geodesy | [The Technical University of Braunschweig, Institute of Geodesy and Photogrammetry](https://www.tu-braunschweig.de/igp/mitarbeiter/mawas-karam) (_Present_)							       		
 - M.S., Geomatics Eng.	| The University of Stuttgart (_April 2017_)
 
 ## Work Experience
-**Quality control of additively manufactured building components @ IGP, TU-BS (_May 2020 - Present_)**
+**Quality control of additively manufactured building components @ IGP, TU-BS (_May 2020 - Present_)** | [AMC](https://amc-trr277.de/)
 - Developing an automated data capturing approach for TLS in the production printing lab.
 - Comparing registration approaches between direct **co-registration** and **ICP-based** methods, emphasizing their distinctions.
 - Innovating **computer vision and deep learning** methods for quality control of printing objects as well as the filaments of the object, with a focus on SC3DP and Extrusion base during production.
