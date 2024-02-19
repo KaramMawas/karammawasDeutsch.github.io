@@ -4,7 +4,7 @@
 ##### Soft Skills: Critical thinking, Communication skills, Problem solving, Curiosity, Teamwork
 
 ## Contacts
-Email |  karam.mawas@gmail.com | <img src="Karam_Mawas.jpg" class="img-responsive" alt=""> </div>
+Email |  karam.mawas@gmail.com
 - [Researchgate](https://www.researchgate.net/profile/Karam-Mawas)
 - [Linkedin](https://www.linkedin.com/in/karam-mawas-6103aa98/?locale=en_US)
 - [ORCID](https://orcid.org/0000-0002-8608-7578)
