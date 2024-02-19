@@ -28,13 +28,10 @@ Email |  karam.mawas@gmail.com
 actively contributing to maintenance concept development and city mapping generation. 
 
 
-### Projects
-OBJECT DETECTION FROM DIOR DATASET WITH YOLOV5 AND YOLOV8
-[Report]([https://www.mdpi.com/1424-8220/22/8/3048](https://github.com/KaramMawas/Yolo_ObjectDetection/blob/main/Report_GroupE_Deep_Learning_Course_IGP_TUBS.pdf)https://github.com/KaramMawas/Yolo_ObjectDetection/blob/main/Report_GroupE_Deep_Learning_Course_IGP_TUBS.pdf), [Presentation](https://github.com/KaramMawas/Yolo_ObjectDetection/blob/main/DL_Final_Presentation.pdf)
-- Extensive EDA of DIOR dataset
-- Importance of optimizer function
-- Superior performance of YOLO v8
+### DeepLearning Projects
+- **[Instance Segmentation](https://github.com/KaramMawas/InstanceSegmentation)** with custom data set by using mmdetection
 
+- **[OBJECT DETECTION](https://github.com/KaramMawas/Yolo_ObjectDetection)** FROM DIOR DATASET by utilizing YOLOV5 AND YOLOV8
 
 ## Publications
 1. Mawas, K., Maboudi, M., & Gerke, M. (2023). Filament Extraction in 3D Printing of Shotcrete Walls from Terrestrial Laser Scanner Data. The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, XLVIII-1/W2-2023, 307-313. https://doi.org/10.5194/isprs-archives-XLVIII-1-W2-2023-307-2023.
