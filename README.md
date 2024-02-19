@@ -1,7 +1,8 @@
 # Data Scientist
 
 ##### Soft Skills: Critical thinking, Communication skills, Problem solving, Curiosity, Teamwork
-##### Technical Skills: Python, MATLAB, Tensorflow, Scikit-learn, OpenCv, Open3d, Git, Cloud Compare
+##### Technical Skills: Python, MATLAB, Tensorflow, Scikit-learn, OpenCv, Open3d, Git, Cloud Compare, Polyworks
+
 
 ## Contact Information
 Email |  karam.mawas@gmail.com
@@ -9,9 +10,11 @@ Email |  karam.mawas@gmail.com
 - [Linkedin](https://www.linkedin.com/in/karam-mawas-6103aa98/?locale=en_US)
 - [ORCID](https://orcid.org/0000-0002-8608-7578)
 
+
 ## Education
 - Ph.D., Geodesy | [The Technical University of Braunschweig, Institute of Geodesy and Photogrammetry](https://www.tu-braunschweig.de/igp/mitarbeiter/mawas-karam) (_Present_)							       		
 - M.S., Geomatics Eng.	| The University of Stuttgart (_April 2017_)
+
 
 ## Work Experience
 **Quality control of additively manufactured building components @ IGP, TU-BS (_May 2020 - Present_)** | [AMC](https://amc-trr277.de/)
@@ -32,6 +35,15 @@ actively contributing to maintenance concept development and city mapping genera
 - **[Instance Segmentation](https://github.com/KaramMawas/InstanceSegmentation)** with custom data set by using mmdetection
 
 - **[OBJECT DETECTION](https://github.com/KaramMawas/Yolo_ObjectDetection)** FROM DIOR DATASET by utilizing YOLOV5 AND YOLOV8
+
+
+### Sensors Experience
+- Terrestrial Laser Scanners (TLS) |    (Z+F) 5010X, 5016  |     (Leica) P20, BLK
+- Total Stations  |   Leica MS50, TS60
+- Structured Light System (SLS)  |   StereoScan neo R16.2
+- Cameras  |  Structure from Motion (Photogrammetry)  |  DPA - Hexagon
+- System Trackers  |   Valkyrie (Vicon System)
+
 
 ## Publications
 1. Mawas, K., Maboudi, M., & Gerke, M. (2023). Filament Extraction in 3D Printing of Shotcrete Walls from Terrestrial Laser Scanner Data. The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, XLVIII-1/W2-2023, 307-313. https://doi.org/10.5194/isprs-archives-XLVIII-1-W2-2023-307-2023.
