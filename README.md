@@ -1,7 +1,7 @@
-# Data Scientist
+# GData Scientist
 
 ##### Soft Skills: Critical thinking, Communication skills, Problem solving, Curiosity, Teamwork
-##### Technical Skills: Python, MATLAB, Tensorflow, Scikit-learn, OpenCv, Open3d, Git, Cloud Compare, Polyworks
+##### Technical Skills: Python, MATLAB, Tensorflow, Scikit-learn, OpenCv, Open3d, Git, Cloud Compare, Polyworks, GIS
 
 
 ## Contact Information
@@ -13,7 +13,8 @@ Email |  karam.mawas@gmail.com
 
 ## Education
 - Ph.D., Geodesy | [The Technical University of Braunschweig, Institute of Geodesy and Photogrammetry](https://www.tu-braunschweig.de/igp/mitarbeiter/mawas-karam) (_Present_)							       		
-- M.S., Geomatics Eng.	| The University of Stuttgart (_April 2017_)
+- M.Sc., Geomatics Eng.	| The University of Stuttgart (_April 2017_)
+- B.Sc., Bachelor of civil engineering - Surveying Engineering | The University of Aleppo, Topography faculty, Aleppo, Syria (_June 2013_)
 
 
 ## Work Experience
@@ -25,9 +26,9 @@ Email |  karam.mawas@gmail.com
 
 
 **Surveying Engineer @ Eagle Eye Technologies, Berlin (_May 2017 - May 2020_)**
-- Implement Kalman filtering for post-processing **navigation data**
-- Calibrate sensors for optimal performance
-- Analyze and document road conditions through **evaluation of scan data and images**, 
+- Applying Kalman filtering for post-processing **navigation data**.
+- Sensors calibrations for optimal performance.
+- Analyzation and documentation of road conditions through **evaluation of scan data and images**, 
 actively contributing to maintenance concept development and city mapping generation. 
 
 
@@ -38,11 +39,12 @@ actively contributing to maintenance concept development and city mapping genera
 
 
 ### Sensors Experience
-- **Terrestrial Laser Scanners (TLS)** | (Z+F) 5010X, 5016 | (Leica) P20, BLK
-- **Total Stations** | Leica MS50, TS60
+- **Terrestrial Laser Scanners (TLS)**  | (Z+F) 5010X, 5016 | (Leica) P20, BLK, RTC360
+- **Handheld-Laserscanner**  |  ArtecEva  |  Artec Space Spider |  Shinning3D - Einstar 3D Scanner
+- **Total Stations** | (Leica) MS50, TS60
 - **Structured Light System (SLS)** | StereoScan neo R16.2
 - **Cameras** | Structure from Motion (Photogrammetry) | DPA - Hexagon
-- **System Trackers** | Valkyrie (Vicon System)
+- **System Trackers** | (Vicon System) Valkyrie
 
 
 ## Publications
