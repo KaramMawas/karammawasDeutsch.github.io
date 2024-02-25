@@ -45,6 +45,10 @@ Email |  karam.mawas@gmail.com
 - **Kameras** | Structure from Motion (Photogrammetry) | DPA - Hexagon
 - **System-Tracker** | (Vicon System) Valkyrie
 
+### Sprachen
+- Arabisch  |  Muttersprache
+- Englisch  |  Fließend
+- Deutscg  |  B2-Niveau
 
 ## Veröffentlichungen
 1. Mawas, K., Maboudi, M., & Gerke, M. (2023). Filament Extraction in 3D Printing of Shotcrete Walls from Terrestrial Laser Scanner Data. The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, XLVIII-1/W2-2023, 307-313. https://doi.org/10.5194/isprs-archives-XLVIII-1-W2-2023-307-2023.
