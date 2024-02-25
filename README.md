@@ -19,7 +19,7 @@ Email |  karam.mawas@gmail.com
 
 ## Bildung
 
-| Studiengang/Fachbereich                        | Institution/Einrichtung                                                                                          | Zeitraum          |
+| Grad                        | Institution/Einrichtung                                                                                          | Zeitraum          |
 |-----------------|------------------------------------------------------------------------------------------------------------------|-------------------|
 | Ph.D., Geodäsie | [Technische Universität Braunschweig, Institut für Geodäsie und Photogrammetrie](https://www.tu-braunschweig.de/igp/mitarbeiter/mawas-karam) | (_Gegenwärtig_)   |
 | M.Sc., Geomatik-Ing. | Universität Stuttgart                                                                                           | (_April 2017_)    |
