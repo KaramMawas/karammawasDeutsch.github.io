@@ -1,53 +1,52 @@
 # Geomatics Engineer / Data Scientist
 
-##### Soft Skills: Critical thinking, Communication skills, Problem solving, Curiosity, Teamwork
-##### Technical Skills: Python, MATLAB, Tensorflow, Scikit-learn, OpenCv, Open3d, Git, Cloud Compare, Polyworks, GIS
+##### Soft Skills: Kritisches Denken, Kommunikationsfähigkeit, Problemlösung, Neugier, Teamarbeit
+##### Technische Fähigkeiten: Python, MATLAB, Tensorflow, Scikit-learn, OpenCv, Open3d, Git, Cloud Compare, Polyworks, GIS
 
 
-## Contact Information
+## Kontaktinformationen
 Email |  karam.mawas@gmail.com
 - [Researchgate](https://www.researchgate.net/profile/Karam-Mawas)
 - [Linkedin](https://www.linkedin.com/in/karam-mawas-6103aa98/?locale=en_US)
 - [ORCID](https://orcid.org/0000-0002-8608-7578)
 
 
-## Education
-- Ph.D., Geodesy | [The Technical University of Braunschweig, Institute of Geodesy and Photogrammetry](https://www.tu-braunschweig.de/igp/mitarbeiter/mawas-karam) (_Present_)							       		
-- M.Sc., Geomatics Eng.	| The University of Stuttgart (_April 2017_)
-- B.Sc., Surveying Eng. | The University of Aleppo, Topography faculty, Aleppo, Syria (_June 2013_)
+## Ausbildung
+- Ph.D., Geodäsie  | [Technische Universität Braunschweig, Institut für Geodäsie und Photogrammetrie](https://www.tu-braunschweig.de/igp/mitarbeiter/mawas-karam) (_Present_)							       		
+- M.Sc., Geomatik-Ing.  | Universität Stuttgart (_April 2017_)
+- B.Sc., Vermessungs-Ing.  | Universität Aleppo, Fakultät für Topographie, Aleppo, Syrien (_June 2013_)
 
 
-## Work Experience
-**Quality control of additively manufactured building components @ IGP, TU-BS (_May 2020 - Present_)** | [AMC](https://amc-trr277.de/)
-- Developing an automated data capturing approach for TLS in the production printing lab.
-- Comparing registration approaches between direct **co-registration** and **ICP-based** methods, emphasizing their distinctions.
-- Innovating **computer vision and deep learning** methods for quality control of printing objects as well as the filaments of the object, with a focus on SC3DP and Extrusion base during production.
-- Conducting comprehensive research on the current state of **quality control** for concrete 3D printed specimens and the corresponding sensor technology in use.
+## Berufserfahrung
+**Qualitätskontrolle von additiv gefertigten Baukomponenten @ IGP, TU-BS (_May 2020 - Present_)** | [AMC](https://amc-trr277.de/)
+- Entwicklung eines automatisierten Daten-Erfassungsansatzes für TLS im Produktionsdrucklabor.
+- Vergleich von Registrierungsansätzen zwischen direkter **Koregistrierung** und **ICP-basierten** Methoden mit Schwerpunkt auf ihren Unterschieden.
+- Innovationen bei **Computer Vision und Deep Learning-Methoden** für die Qualitätskontrolle von Druckobjekten sowie den Filamenten des Objekts, mit Schwerpunkt auf SC3DP und Extrusionsbasis während der Produktion.
+- Umfassende Forschung zum aktuellen Stand der **Qualitätskontrolle** bei Beton 3D-gedruckten Proben und der entsprechenden Sensortechnologie.
 
 
-**Surveying Engineer @ Eagle Eye Technologies, Berlin (_May 2017 - May 2020_)**
-- Applying Kalman filtering for post-processing **navigation data**.
-- Sensors calibrations for optimal performance.
-- Analyzation and documentation of road conditions through **evaluation of scan data and images**, 
-actively contributing to maintenance concept development and city mapping generation. 
+**Vermessungsingenieur @ Eagle Eye Technologies, Berlin (_May 2017 - May 2020_)**
+- Anwendung von Kalman-Filtern zur Nachbearbeitung von **Navigationsdaten**.
+- Sensorkalibrierungen für optimale Leistung.
+- Analyse und Dokumentation von Straßenzuständen durch **Auswertung von Scan-Daten und Bildern**, aktive Mitwirkung an der Entwicklung von Wartungskonzepten und der Erstellung von Stadtkarten. 
 
 
-### DeepLearning Projects
-- **[Instance Segmentation](https://github.com/KaramMawas/InstanceSegmentation)** with custom data set by using mmdetection
+### DeepLearning-Projekte
+- **[Instanzen-Segmentierung](https://github.com/KaramMawas/InstanceSegmentation)** mit benutzerdefiniertem Datensatz unter Verwendung von mmdetection.
 
-- **[OBJECT DETECTION](https://github.com/KaramMawas/Yolo_ObjectDetection)** FROM DIOR DATASET by utilizing YOLOV5 AND YOLOV8
+- **[OBJEKTERKENNUNG](https://github.com/KaramMawas/Yolo_ObjectDetection)** vom DIOR Daten mit YOLOv5 und YOLOv8.
 
 
-### Sensors Experience
-- **Terrestrial Laser Scanners (TLS)**  | (Z+F) 5010X, 5016 | (Leica) P20, BLK, RTC360
+### Erfahrung mit Sensoren
+- **Terrestrische Laserscanner (TLS)**  | (Z+F) 5010X, 5016 | (Leica) P20, BLK, RTC360
 - **Handheld-Laserscanner**  |  ArtecEva  |  Artec Space Spider |  Shinning3D - Einstar 3D Scanner
-- **Total Stations** | (Leica) MS50, TS60
-- **Structured Light System (SLS)** | StereoScan neo R16.2
-- **Cameras** | Structure from Motion (Photogrammetry) | DPA - Hexagon
-- **System Trackers** | (Vicon System) Valkyrie
+- **Tachymeter** | (Leica) MS50, TS60
+- **Strukturiertes Lichtsystem (SLS)** | StereoScan neo R16.2
+- **Kameras** | Structure from Motion (Photogrammetry) | DPA - Hexagon
+- **System-Tracker** | (Vicon System) Valkyrie
 
 
-## Publications
+## Veröffentlichungen
 1. Mawas, K., Maboudi, M., & Gerke, M. (2023). Filament Extraction in 3D Printing of Shotcrete Walls from Terrestrial Laser Scanner Data. The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, XLVIII-1/W2-2023, 307-313. https://doi.org/10.5194/isprs-archives-XLVIII-1-W2-2023-307-2023.
 2. Rennen, P., Gantner, S., Dielemans, G., & Shakor, P. (2023). Robotic Knitcrete: Computational Design and Fabrication of a Pedestrian Bridge Using Robotic Shotcrete on a 3D-Knitted Formwork. Frontiers in Built Environment, 9:1269000. https://doi.org/10.3389/fbuil.2023.1269000.
 3. Slepicka, M., Mawas, K., Borrmann, A., & Gerke, M. (2023). Digital Twinning in Additive Manufacturing - Closing the Digital-Physical-Digital Loop by Automated Integration of Captured Geometric Data into Fabrication Information Models. In Advances in Information Technology in Civil and Building Engineering. https://doi.org/10.1007/978-3-031-35399-4_34.
