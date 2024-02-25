@@ -14,7 +14,7 @@ Email |  karam.mawas@gmail.com
 ## Education
 - Ph.D., Geodesy | [The Technical University of Braunschweig, Institute of Geodesy and Photogrammetry](https://www.tu-braunschweig.de/igp/mitarbeiter/mawas-karam) (_Present_)							       		
 - M.Sc., Geomatics Eng.	| The University of Stuttgart (_April 2017_)
-- B.Sc., Bachelor of civil engineering - Surveying Engineering | The University of Aleppo, Topography faculty, Aleppo, Syria (_June 2013_)
+- B.Sc., Surveying Eng. | The University of Aleppo, Topography faculty, Aleppo, Syria (_June 2013_)
 
 
 ## Work Experience
