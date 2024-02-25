@@ -12,20 +12,20 @@ Email |  karam.mawas@gmail.com
 
 
 ## Ausbildung
-- Ph.D., Geodäsie  | [Technische Universität Braunschweig, Institut für Geodäsie und Photogrammetrie](https://www.tu-braunschweig.de/igp/mitarbeiter/mawas-karam) (_Present_)							       		
+- Ph.D., Geodäsie  | [Technische Universität Braunschweig, Institut für Geodäsie und Photogrammetrie](https://www.tu-braunschweig.de/igp/mitarbeiter/mawas-karam) (_Gegenwärtig_)							       		
 - M.Sc., Geomatik-Ing.  | Universität Stuttgart (_April 2017_)
-- B.Sc., Vermessungs-Ing.  | Universität Aleppo, Fakultät für Topographie, Aleppo, Syrien (_June 2013_)
+- B.Sc., Vermessungs-Ing.  | Universität Aleppo, Fakultät für Topographie, Aleppo, Syrien (_Juni 2013_)
 
 
 ## Berufserfahrung
-**Qualitätskontrolle von additiv gefertigten Baukomponenten @ IGP, TU-BS (_May 2020 - Present_)** | [AMC](https://amc-trr277.de/)
+**Qualitätskontrolle von additiv gefertigten Baukomponenten @ IGP, TU-BS (_Mai 2020 - Gegenwärtig_)** | [AMC](https://amc-trr277.de/)
 - Entwicklung eines automatisierten Daten-Erfassungsansatzes für TLS im Produktionsdrucklabor.
 - Vergleich von Registrierungsansätzen zwischen direkter **Koregistrierung** und **ICP-basierten** Methoden mit Schwerpunkt auf ihren Unterschieden.
 - Innovationen bei **Computer Vision und Deep Learning-Methoden** für die Qualitätskontrolle von Druckobjekten sowie den Filamenten des Objekts, mit Schwerpunkt auf SC3DP und Extrusionsbasis während der Produktion.
 - Umfassende Forschung zum aktuellen Stand der **Qualitätskontrolle** bei Beton 3D-gedruckten Proben und der entsprechenden Sensortechnologie.
 
 
-**Vermessungsingenieur @ Eagle Eye Technologies, Berlin (_May 2017 - May 2020_)**
+**Vermessungsingenieur @ Eagle Eye Technologies, Berlin (_Mai 2017 - Mai 2020_)**
 - Anwendung von Kalman-Filtern zur Nachbearbeitung von **Navigationsdaten**.
 - Sensorkalibrierungen für optimale Leistung.
 - Analyse und Dokumentation von Straßenzuständen durch **Auswertung von Scan-Daten und Bildern**, aktive Mitwirkung an der Entwicklung von Wartungskonzepten und der Erstellung von Stadtkarten. 
