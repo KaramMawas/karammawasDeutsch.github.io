@@ -10,11 +10,20 @@ Email |  karam.mawas@gmail.com
 - [Linkedin](https://www.linkedin.com/in/karam-mawas-6103aa98/?locale=en_US)
 - [ORCID](https://orcid.org/0000-0002-8608-7578)
 
-
+<!--
 ## Ausbildung
 - Ph.D., Geodäsie  | [Technische Universität Braunschweig, Institut für Geodäsie und Photogrammetrie](https://www.tu-braunschweig.de/igp/mitarbeiter/mawas-karam) (_Gegenwärtig_)							       		
 - M.Sc., Geomatik-Ing.  | Universität Stuttgart (_April 2017_)
 - B.Sc., Vermessungs-Ing.  | Universität Aleppo, Fakultät für Topographie, Aleppo, Syrien (_Juni 2013_)
+-->
+
+### Bildung
+
+| Grad            | Studiengang/Fachbereich                        | Institution/Einrichtung                                                                                          | Zeitraum          |
+|-----------------|------------------------------------------------|------------------------------------------------------------------------------------------------------------------|-------------------|
+| Ph.D., Geodäsie |                                                | [Technische Universität Braunschweig, Institut für Geodäsie und Photogrammetrie](https://www.tu-braunschweig.de/igp/mitarbeiter/mawas-karam) | (_Gegenwärtig_)   |
+| M.Sc., Geomatik-Ing. |                                            | Universität Stuttgart                                                                                           | (_April 2017_)    |
+| B.Sc., Vermessungsingenieurwesen | Topografie-Fakultät            | Universität Aleppo, Syrien                                                                                      | (_Juni 2013_)     |
 
 
 ## Berufserfahrung
