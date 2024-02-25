@@ -44,7 +44,19 @@ Email |  karam.mawas@gmail.com
 | Englisch | Fließend      |
 | Deutsch  | B2-Niveau     |
 
+### Erfahrung mit Sensoren
 
+| Sensortyp                             | Ausrüstung                                          |
+|---------------------------------------|----------------------------------------------------|
+| **Terrestrische Laserscanner (TLS)**  | (Z+F) 5010X, 5016 \| (Leica) P20, BLK, RTC360      |
+| **Handgehaltene Laserscanner**        | ArtecEva \| Artec Space Spider \| Shinning3D - Einstar 3D Scanner |
+| **Totalstationen**                    | (Leica) MS50, TS60                                 |
+| **Strukturierte Lichtsysteme (SLS)**  | StereoScan neo R16.2                               |
+| **Kameras**                           | Structure from Motion (Photogrammetrie) \| DPA - Hexagon |
+| **System Tracker**                    | (Vicon-System) Valkyrie                            |
+
+
+<!--
 ### Erfahrung mit Sensoren
 - **Terrestrische Laserscanner (TLS)**  | (Z+F) 5010X, 5016 | (Leica) P20, BLK, RTC360
 - **Handheld-Laserscanner**  |  ArtecEva  |  Artec Space Spider |  Shinning3D - Einstar 3D Scanner
@@ -52,6 +64,7 @@ Email |  karam.mawas@gmail.com
 - **Strukturiertes Lichtsystem (SLS)** | StereoScan neo R16.2
 - **Kameras** | Structure from Motion (Photogrammetry) | DPA - Hexagon
 - **System-Tracker** | (Vicon System) Valkyrie
+-->
 
 <!--
 ### Sprachen
