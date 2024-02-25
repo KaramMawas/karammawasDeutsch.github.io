@@ -17,7 +17,7 @@ Email |  karam.mawas@gmail.com
 - B.Sc., Vermessungs-Ing.  | Universität Aleppo, Fakultät für Topographie, Aleppo, Syrien (_Juni 2013_)
 -->
 
-### Bildung
+## Bildung
 
 | Studiengang/Fachbereich                        | Institution/Einrichtung                                                                                          | Zeitraum          |
 |-----------------|------------------------------------------------------------------------------------------------------------------|-------------------|
@@ -45,7 +45,7 @@ Email |  karam.mawas@gmail.com
 
 - **[OBJEKTERKENNUNG](https://github.com/KaramMawas/Yolo_ObjectDetection)** vom DIOR Daten mit YOLOv5 & YOLOv8.
 
-### Sprachkenntnisse
+## Sprachkenntnisse
 
 | Sprache  | Kenntnisstufe |
 |----------|---------------|
@@ -53,7 +53,7 @@ Email |  karam.mawas@gmail.com
 | Englisch | Fließend      |
 | Deutsch  | B2-Niveau     |
 
-### Erfahrung mit Sensoren
+## Erfahrung mit Sensoren
 
 | Sensortyp                             | Ausrüstung                                          |
 |---------------------------------------|----------------------------------------------------|
