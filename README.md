@@ -32,7 +32,7 @@ Email |  karam.mawas@gmail.com
 
 
 ### DeepLearning-Projekte
-- **[Instanzen-Segmentierung](https://github.com/KaramMawas/InstanceSegmentation)** mit benutzerdefiniertem Datensatz unter Verwendung von mmdetection.
+- **[Instanzen-Segmentierung](https://github.com/KaramMawas/InstanceSegmentation)** mit benutzerdefiniertem Datensatz unter Verwendung von MMDetection.
 
 - **[OBJEKTERKENNUNG](https://github.com/KaramMawas/Yolo_ObjectDetection)** vom DIOR Daten mit YOLOv5 und YOLOv8.
 
