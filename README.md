@@ -5,8 +5,9 @@
 
 
 ## Kontaktinformationen
-|  Email  |  karam.mawas@gmail.com  |
-|  Tel.  |  +4915209419001  |
+  Email  |  karam.mawas@gmail.com  |
+  
+  Tel.  |  +4915209419001  |
 
 - [Researchgate](https://www.researchgate.net/profile/Karam-Mawas)
 - [Linkedin](https://www.linkedin.com/in/karam-mawas-6103aa98/?locale=en_US)
