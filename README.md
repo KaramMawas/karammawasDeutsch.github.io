@@ -51,7 +51,7 @@ Email |  karam.mawas@gmail.com
 |----------|---------------|
 | Arabisch | Muttersprache |
 | Englisch | Fließend      |
-| Deutsch  | B2-Niveau     |
+| Deutsch  | Fortgeschrittene Kenntnisse |
 
 ## Erfahrung mit Sensoren
 
