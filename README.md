@@ -41,7 +41,13 @@ Email: karam.mawas@gmail.com  |  Tel.  +4915209419001
 - Analyse und Dokumentation von Straßenzuständen durch **Auswertung von Scan-Daten und Bildern**, aktive Mitwirkung an der Entwicklung von Wartungskonzepten und der Erstellung von Stadtkarten. 
 
 
-### DeepLearning-Projekte
+## Ingenieur- und Technologieprojekte
+- **[KI-gesteuerte Segmentierung von 2D-Projektionen aus 3D-Punktwolkendaten](https://amc-trr277.de/research-summary-report-of-c06-4/)**
+
+- **[Überwachungssystem für KnitCrete-Strukturen und Stiftdetektion](https://drive.google.com/file/d/1-wcYo70cX6kY_TpKaCAlubiAea2HsUxK/view?usp=sharing)**
+
+- **[Automatische Datenerfassung](https://amc-trr277.de/research-summary-report-c06/)**
+  
 - **[Instanzen-Segmentierung](https://github.com/KaramMawas/InstanceSegmentation)** mit benutzerdefiniertem Datensatz unter Verwendung von MMDetection.
 
 - **[OBJEKTERKENNUNG](https://github.com/KaramMawas/Yolo_ObjectDetection)** vom DIOR Daten mit YOLOv5 & YOLOv8.
