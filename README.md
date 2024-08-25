@@ -1,7 +1,7 @@
 # Geomatik-Ingenieur / Data Scientist
 
 ##### Soft Skills: Kritisches Denken, Kommunikationsfähigkeit, Problemlösung, Neugier, Teamarbeit
-##### Technische Fähigkeiten: Python, MATLAB, Tensorflow, Scikit-learn, OpenCv, Open3d, Git, Cloud Compare, Polyworks, GIS
+##### Technische Fähigkeiten: Python, MATLAB, Tensorflow, Scikit-learn, OpenCV, Open3d, Git, Cloud Compare, Polyworks, GIS, ImageJ, CVAT
 
 
 ## Kontaktinformationen
