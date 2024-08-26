@@ -101,7 +101,7 @@ Email: karam.mawas@gmail.com  |  Tel.  +4915209419001
   </tr>
   <tr>
     <td>Syrischer Arabischer Roter Halbmond</td>
-    <td>Logistische Unterstützung in zivilen Krisen</td>
+    <td>Logistische Unterstützung während ziviler Krisen für 3 Monate</td>
   </tr>
 </table>
 
