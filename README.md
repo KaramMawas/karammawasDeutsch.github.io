@@ -50,7 +50,7 @@ Email: karam.mawas@gmail.com  |  Tel.  +4915209419001
   
 - **[Instanzen-Segmentierung](https://github.com/KaramMawas/InstanceSegmentation)** mit benutzerdefiniertem Datensatz unter Verwendung von MMDetection.
 
-- **[OBJEKTERKENNUNG](https://github.com/KaramMawas/Yolo_ObjectDetection)** vom DIOR Daten mit YOLOv5 & YOLOv8.
+- **[Objekterkennung](https://github.com/KaramMawas/Yolo_ObjectDetection)** vom DIOR Daten mit YOLOv5 & YOLOv8.
 
 ## Sprachkenntnisse
 
