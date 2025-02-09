@@ -1,4 +1,4 @@
-# Geomatik-Ingenieur / Data Scientist
+# Geomatik-Ingenieur / Computer Vision Ingenieur
 
 ##### Soft Skills: Kritisches Denken, Kommunikationsfähigkeit, Problemlösung, Neugier, Teamarbeit
 ##### Technische Fähigkeiten: Python, MATLAB, Tensorflow, Pytorch, Scikit-learn, OpenCV, Open3d, Git, Cloud Computing (mit Clusters), Cloud Compare, Polyworks, GIS, ImageJ, CVAT, C++ (Mittelstufe, in Lernen), PCL (in Lernen), Docker (Verständnis), PostgreSQL (Verständnis)
