@@ -1,7 +1,7 @@
 # Geomatik-Ingenieur / Computer Vision Ingenieur
 
 ##### Soft Skills: Kritisches Denken, Kommunikationsfähigkeit, Problemlösung, Neugier, Teamarbeit
-##### Technische Fähigkeiten: Python, MATLAB, Tensorflow, Pytorch, Scikit-learn, OpenCV, Open3d, Git, Cloud Computing (mit Clusters), Cloud Compare, Polyworks, GIS, ImageJ, CVAT, C++ (Mittelstufe, in Lernen), PCL (in Lernen), Docker (Verständnis), PostgreSQL (Verständnis)
+##### Technische Fähigkeiten: Python, MATLAB, Tensorflow, Pytorch, Scikit-learn, OpenCV, Open3d, Git, Cloud Computing (mit Clusters), Cloud Compare, Polyworks, GIS, ImageJ, CVAT, C++ (in Lernen), PCL (in Lernen), Docker (Verständnis), PostgreSQL (Verständnis)
 
 
 ## Kontaktinformationen
@@ -69,7 +69,7 @@ Es wurde ein automatisches Datenerfassungssystem entwickelt, bei dem terrestrisc
 |---------------------------------------|----------------------------------------------------|
 | **Terrestrische Laserscanner (TLS)**  | (Z+F) 5010X, 5016 \| (Leica) P20, BLK, RTC360      |
 | **Handgehaltene Laserscanner**        | ArtecEva \| Artec Space Spider \| Shinning3D - Einstar 3D Scanner |
-| **Strukturierte Lichtsysteme (SLS)**  | StereoScan neo R16.2                               |
+| **Strukturierte Lichtsysteme (SLS)**  | StereoScan neo R16.2, PrimeScan                               |
 | **Kameras**                           | Structure from Motion (Photogrammetrie) \| DPA - Hexagon |
 | **System Tracker**                    | (Vicon-System) Valkyrie                            |
 | **Tachymeter**                    | (Leica) MS50, TS60                                 |
@@ -111,12 +111,13 @@ Es wurde ein automatisches Datenerfassungssystem entwickelt, bei dem terrestrisc
 
 ## Veröffentlichungen
 1. **Mawas, K.**, Maboudi, M., & Gerke, M. (2025). A Review on Geometry and Surface Inspection in 3D Concrete Printing. arXiv preprint arXiv:2503.07472, https://arxiv.org/abs/2503.07472.
-2. Wolfs, R., (et al.), & **Mawas, K.** (2024). On-line and in-line quality assessment across all scale levels of 3D concrete printing, Cement and Concrete Research, Volume 185, 2024, 107646, ISSN 0008-8846, https://doi.org/10.1016/j.cemconres.2024.107646.
-3. **Mawas, K.**, Maboudi, M., & Gerke, M. (2023). Filament Extraction in 3D Printing of Shotcrete Walls from Terrestrial Laser Scanner Data. The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, XLVIII-1/W2-2023, 307-313. https://doi.org/10.5194/isprs-archives-XLVIII-1-W2-2023-307-2023.
-4. Rennen, P., (et al.), & **Mawas, K.** (2023). Robotic Knitcrete: Computational Design and Fabrication of a Pedestrian Bridge Using Robotic Shotcrete on a 3D-Knitted Formwork. Frontiers in Built Environment, 9:1269000. https://doi.org/10.3389/fbuil.2023.1269000.
-5. Slepicka, M., **Mawas, K.**, Borrmann, A., Maboudi, M., & Gerke, M. (2023). Digital Twinning in Additive Manufacturing - Closing the Digital-Physical-Digital Loop by Automated Integration of Captured Geometric Data into Fabrication Information Models. In Advances in Information Technology in Civil and Building Engineering. https://doi.org/10.1007/978-3-031-35399-4_34.
-6. **Mawas, K.**, Maboudi, M., & Gerke, M. (2022). Direct Co-registration of As-Built and As-Designed Data in Digital Fabrication. 42nd Wissenschaftlich-Technische Jahrestagung der DGPF. https://www.tib.eu/suchen/id/TIBKAT:1796027855.
-7. Wieser, A., (et al.), & **Mawas, K.** (2022). Erfahrungen aus einem Koordinierten Vergleich Aktueller Scanner. In Terrestrisches Laserscanning 2022 (TLS 2022), DVW-Schriftenreihe, Band 104/2022. Wißner Verlag, Augsburg.
-8. Placzek, G., Brohmann, L., **Mawas, K.**, Schwerdtner, P., Hack, N., Maboudi, M., & Gerke, M. (2021). A Lean-Based Production Approach for Shotcrete 3D Printed Concrete Components. In Proceedings of the 38th International Symposium on Automation and Robotics in Construction (ISARC), Dubai, UAE, 811-818. https://doi.org/10.22260/isarc2021/0110.
-9. **Mawas, K.**, Maboudi, M., & Gerke, M. (2022). Automatic Geometric Inspection in Digital Fabrication. International Archives of Photogrammetry, Remote Sensing and Spatial Information Sciences, XLIII-B1-2022, 459–466. https://doi.org/10.5194/isprs-archives-XLIII-B1-2022-459-2022.
-10. Hack, N., Jantzen, C., Brohmann, L., Gerke, M., **Mawas, K.**, & Maboudi, M. (2022). A Closed-Loop Workflow for Quality Inspection and Integrated Post-Processing of 3D-Printed Concrete Elements. In R. Buswell, A. Blanco, S. Cavalaro, & P. Kinnell (Eds.), Third RILEM International Conference on Concrete and Digital Fabrication. DC 2022. RILEM Bookseries, vol 37. Springer, Cham. https://doi.org/10.1007/978-3-031-06116-5_54.
+2. Dörrie, R., (et al.), **Mawas, K.**. From Digital to Real: Optimised and Functionally Integrated Shotcrete 3D Printing Elements for Multi-Storey Structures. Buildings 2025, 15, 1461, https://doi.org/10.3390/buildings15091461
+3. Wolfs, R., (et al.), & **Mawas, K.** (2024). On-line and in-line quality assessment across all scale levels of 3D concrete printing, Cement and Concrete Research, Volume 185, 2024, 107646, ISSN 0008-8846, https://doi.org/10.1016/j.cemconres.2024.107646.
+4. **Mawas, K.**, Maboudi, M., & Gerke, M. (2023). Filament Extraction in 3D Printing of Shotcrete Walls from Terrestrial Laser Scanner Data. The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, XLVIII-1/W2-2023, 307-313. https://doi.org/10.5194/isprs-archives-XLVIII-1-W2-2023-307-2023.
+5. Rennen, P., (et al.), & **Mawas, K.** (2023). Robotic Knitcrete: Computational Design and Fabrication of a Pedestrian Bridge Using Robotic Shotcrete on a 3D-Knitted Formwork. Frontiers in Built Environment, 9:1269000. https://doi.org/10.3389/fbuil.2023.1269000.
+6. Slepicka, M., **Mawas, K.**, Borrmann, A., Maboudi, M., & Gerke, M. (2023). Digital Twinning in Additive Manufacturing - Closing the Digital-Physical-Digital Loop by Automated Integration of Captured Geometric Data into Fabrication Information Models. In Advances in Information Technology in Civil and Building Engineering. https://doi.org/10.1007/978-3-031-35399-4_34.
+7. **Mawas, K.**, Maboudi, M., & Gerke, M. (2022). Direct Co-registration of As-Built and As-Designed Data in Digital Fabrication. 42nd Wissenschaftlich-Technische Jahrestagung der DGPF. https://www.tib.eu/suchen/id/TIBKAT:1796027855.
+8. Wieser, A., (et al.), & **Mawas, K.** (2022). Erfahrungen aus einem Koordinierten Vergleich Aktueller Scanner. In Terrestrisches Laserscanning 2022 (TLS 2022), DVW-Schriftenreihe, Band 104/2022. Wißner Verlag, Augsburg.
+9. Placzek, G., Brohmann, L., **Mawas, K.**, Schwerdtner, P., Hack, N., Maboudi, M., & Gerke, M. (2021). A Lean-Based Production Approach for Shotcrete 3D Printed Concrete Components. In Proceedings of the 38th International Symposium on Automation and Robotics in Construction (ISARC), Dubai, UAE, 811-818. https://doi.org/10.22260/isarc2021/0110.
+10. **Mawas, K.**, Maboudi, M., & Gerke, M. (2022). Automatic Geometric Inspection in Digital Fabrication. International Archives of Photogrammetry, Remote Sensing and Spatial Information Sciences, XLIII-B1-2022, 459–466. https://doi.org/10.5194/isprs-archives-XLIII-B1-2022-459-2022.
+11. Hack, N., Jantzen, C., Brohmann, L., Gerke, M., **Mawas, K.**, & Maboudi, M. (2022). A Closed-Loop Workflow for Quality Inspection and Integrated Post-Processing of 3D-Printed Concrete Elements. In R. Buswell, A. Blanco, S. Cavalaro, & P. Kinnell (Eds.), Third RILEM International Conference on Concrete and Digital Fabrication. DC 2022. RILEM Bookseries, vol 37. Springer, Cham. https://doi.org/10.1007/978-3-031-06116-5_54.
