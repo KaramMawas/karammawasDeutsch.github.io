@@ -1,7 +1,7 @@
 # Geomatik-Ingenieur / Computer Vision Ingenieur
 
 ##### Soft Skills: Kritisches Denken, Kommunikationsfähigkeit, Problemlösung, Neugier, Teamarbeit
-##### Technische Fähigkeiten: Python, MATLAB, Tensorflow, Pytorch, Scikit-learn, OpenCV, Open3d, Git, Cloud Computing (mit Clusters), Cloud Compare, Polyworks, GIS, ImageJ, CVAT, C++ (in Lernen), PCL (in Lernen), Docker (Verständnis), PostgreSQL (Verständnis)
+##### Technische Fähigkeiten: Python, MATLAB, Tensorflow, Pytorch, Scikit-learn, OpenCV, Open3d, Git, Cloud Computing (mit Clusters), Cloud Compare, Polyworks, QGIS/ArcGIS, ImageJ, C++ (in Lernen), PCL (in Lernen), Docker (Verständnis), PostgreSQL (Verständnis)
 
 
 ## Kontaktinformationen
@@ -55,6 +55,25 @@ Es wurde ein automatisches Datenerfassungssystem entwickelt, bei dem terrestrisc
 - **[Instanzen-Segmentierung](https://github.com/KaramMawas/InstanceSegmentation)** mit benutzerdefiniertem Datensatz unter Verwendung von **MMDetection.**
 
 - **[Objekterkennung](https://github.com/KaramMawas/Yolo_ObjectDetection)** vom **DIOR** Daten mit **YOLOv5 & YOLOv8.**
+
+## Antragserstellung
+**Wissenschaftlicher DFG-Antrag für TRR277-AMC**, [TRR277, zweite Phase 2024-2027](https://amc-trr277.de/)
+
+Im Rahmen des C06 - IGP, war ich an der Erstellung des Antrags für die zweite Finanzierungsphase von TRR277, Appraisal Defense (Begutachtung), beteiligt. Dazu gehörte auch die Vorbereitung eines Posters und einer Präsentation für die Evaluierungsschritte.
+
+**ISPRS Wissenschaftliche Initiativen 2025**
+
+Projektförderpreis der Wissenschaftlichen Initiativen 2025, [ISPRS Benchmark zur Registrierung von 3D-Punktwolken für die Modellierung (PC2Model)](https://www.isprs.org/society/si/default.aspx#maboudi)
+
+## Lehrtätigkeit
+**Labor, Photogrammetrie | für zwei Semester**
+ 1. Durchführung von Laborübungen für Einführungskurse in der Photogrammetrie.
+ 2. Erstellung umfassender Folien und Lehrmaterialien zur Unterstützung des Lernprozesses der Studierenden.
+ 3. Konzeption und Durchführung von Experimenten zur Veranschaulichung wesentlicher photogrammetrischer Prinzipien.
+
+**Labor, TLS**
+1. Durchführung von Experimenten/Laborübungen zum TLS-Workflow.
+2. Instrumentenaufbau, Netzwerkplanung, Registrierung und Datennachbearbeitung.
 
 ## Sprachkenntnisse
 
